@@ -1,0 +1,56 @@
+HCM 6th TWSC	Build 2041 Conditions
+6: Strip Mall Drive/Thomasboro Road  & NC 179 (Beach Drive)	Timing Plan: PM Peak Hour
+
+
+
+Intersection                      													
+Int Delay, s/veh                  		7.1											
+
+Movement                          		EBL	EBT	EBR	WBL	WBT	WBR	NBL	NBT	NBR	SBL	SBT	SBR
+Lane Configurations               		1	1>	0	1	1>	0	0	<1>	0	1	1>	0
+Traffic Vol, veh/h                		281	627	4	4	607	4	4	4	4	4	4	204
+Future Vol, veh/h                 		281	627	4	4	607	4	4	4	4	4	4	204
+Conflicting Peds, #/hr            		0	0	0	0	0	0	0	0	0	0	0	0
+Sign Control                      		Free	Free	Free	Free	Free	Free	Stop	Stop	Stop	Stop	Stop	Stop
+RT Channelized                    		-	-	None	-	-	None	-	-	None	-	-	None
+Storage Length                    		125	-	-	100	-	-	-	-	-	125	-	-
+Veh in Median Storage, #          		-	0	-	-	0	-	-	0	-	-	0	-
+Grade, %                          		-	0	-	-	0	-	-	0	-	-	0	-
+Peak Hour Factor                  		90	90	90	90	90	90	90	90	90	90	90	90
+Heavy Vehicles, %                 		2	2	2	2	2	2	2	2	2	2	2	2
+Mvmt Flow                         		312	697	4	4	674	4	4	4	4	4	4	227
+                                  													
+
+Major/Minor                       		Major1			Major2			Minor1			Minor2		
+Conflicting Flow All              		678	0	0	701	0	0	2123	2009	699	2011	2009	676
+          Stage 1                 		-	-	-	-	-	-	1323	1323	-	684	684	-
+          Stage 2                 		-	-	-	-	-	-	800	686	-	1327	1325	-
+Critical Hdwy                     		4.12	-	-	4.12	-	-	7.12	6.52	6.22	7.12	6.52	6.22
+Critical Hdwy Stg 1               		-	-	-	-	-	-	6.12	5.52	-	6.12	5.52	-
+Critical Hdwy Stg 2               		-	-	-	-	-	-	6.12	5.52	-	6.12	5.52	-
+Follow-up Hdwy                    		2.218	-	-	2.218	-	-	3.518	4.018	3.318	3.518	4.018	3.318
+Pot Cap-1 Maneuver                		914	-	-	896	-	-	36	59	440	44	59	453
+          Stage 1                 		-	-	-	-	-	-	192	226	-	439	449	-
+          Stage 2                 		-	-	-	-	-	-	379	448	-	191	225	-
+Platoon blocked, %                			-	-		-	-						
+Mov Cap-1 Maneuver                		914	-	-	896	-	-	12	39	440	29	39	453
+Mov Cap-2 Maneuver                		-	-	-	-	-	-	12	39	-	29	39	-
+          Stage 1                 		-	-	-	-	-	-	127	149	-	289	447	-
+          Stage 2                 		-	-	-	-	-	-	187	446	-	121	148	-
+                                  													
+
+Approach                          		EB			WB			NB			SB		
+HCM Control Delay, s              		3.4			0.1			230.8			31		
+HCM LOS                           								F			D		
+                                  													
+
+Minor Lane/Major Mvmt             			NBLn1	EBL	EBT	EBR	WBL	WBT	WBR	SBLn1	SBLn2
+Capacity (veh/h)                  			27	914	-	-	896	-	-	29	376
+HCM Lane V/C Ratio                			0.494	0.342	-	-	0.005	-	-	0.153	0.615
+HCM Control Delay (s)             			230.8	11	-	-	9	-	-	150.4	28.7
+HCM Lane LOS                      			F	B	-	-	A	-	-	F	D
+HCM 95th %tile Q(veh)             			1.5	1.5	-	-	0	-	-	0.5	3.9
+
+
+Scenario 1 Stone Farms - Brunswick County, NC 5:00 pm 10/28/2021 Build 2041 Conditions	Synchro 11 Report
+RKA	Page 0
